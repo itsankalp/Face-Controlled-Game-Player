@@ -38,5 +38,12 @@ The system uses:
 
 ## 🚀 Installation
 
-pip install opencv-python mediapipe pyautogui numpy
+pip install opencv-python mediapipe pyautogui numpy,
 python face_control.py
+
+Credits,
+MediaPipe,
+OpenCV,
+PyAutoGUI,
+Built by Sankalp Mirajkar.
+
